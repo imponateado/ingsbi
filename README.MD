@@ -2,17 +2,13 @@ simple CLI utility to delete WhatsApp messages containing a certain string.
 
 setting it up:
 
-get on the project folder
+I - get on the project folder
 
-npm i whatsapp-web.js
-
-npm i qrcode-terminal
-
-npm i chalk@4
+II - npm i
 
 using it:
 
-node index.js 'string' 0
+I - node index.js 'string' 0
 
 'string' = whatever string you want to find in a message to delete
 
