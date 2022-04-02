@@ -1,0 +1,16 @@
+{
+  "name": "ingsbi",
+  "version": "1.0.0",
+  "description": "a program that deletes certain that contains certain strings from whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.16.5"
+  }
+}

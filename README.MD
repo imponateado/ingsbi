@@ -1,0 +1,1 @@
+simple CLI utility to delete WhatsApp messages containing a certain string.
